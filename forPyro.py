@@ -1,8 +1,8 @@
 '''
 
 Steps: 
-1. Create pandasMain.py
-2. Do all the panadas things
+1. Create new branch and create pandasMain.py ion that branch
+2. Do all the panadas things in pandasMain.py (initiating it, etc.)
 3. Create function that creates new excel file 
 4. (optional) add other fancy stuff like writing in the excel file (again, all in its own function)
 5. import pandasMain.py in main.py
